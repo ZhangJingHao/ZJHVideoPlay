@@ -1,7 +1,5 @@
 # iOS视频播放、AVFoundation使用
 
-点击下载 [Demo](https://github.com/ZhangJingHao/ZJHVideoPlay)
-
 ![视频播放demo.gif](https://upload-images.jianshu.io/upload_images/2120486-e72956ad9845af4d.gif?imageMogr2/auto-orient/strip)
 
 ###一、AVPlayer简介
